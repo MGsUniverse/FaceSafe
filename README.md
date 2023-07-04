@@ -27,5 +27,6 @@ There are seven main files in this repository:
 **Note: You can have more than one face added in the program. To add a new user, just run the "setup_new_user.py" file again.**
 
 ## Video
+https://youtu.be/j2Dvm8hKHeE
 ## Credits
 By Matteo Giovanni
